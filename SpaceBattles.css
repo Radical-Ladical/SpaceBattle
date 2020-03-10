@@ -1,0 +1,39 @@
+#background {
+    background-image: url('assets/SPACES_BG-2.jpg');
+    height: 800px;
+    width: 1200px;
+} 
+
+#hero {
+    background-image: url("assets/Hero.jpg");
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: 700px;
+    left: 600px;
+}
+
+.enemy {
+    background-image: url("assets/enemy.png");
+    height: 50px;
+    width: 50px;
+    position: absolute;
+}
+#missiles {
+    height: 800px;
+    width:1200px;
+    position:absolute;
+}
+
+.missile {
+    background-image: url("assets/bang.jpeg");
+    height: 16px;
+    width: 10px;
+    position: absolute;
+}
+
+#enemies {
+    height: 800px;
+    width:1200px;
+    position:absolute;
+}
